@@ -1,2 +1,7 @@
 #!/bin/bash
 mkdir/tmp/my_first_directory
+mkdir /tmp/my_first_directory>>6-firstdirectory
+chmod u+x 6-firstdirectory
+git add .
+git commit -m my commit
+echo mkdir /tmp/my_first_directory
