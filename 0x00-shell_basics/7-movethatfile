@@ -1,0 +1,5 @@
+#!/bin/bash
+mv/tmp/betty/tmp/my_first_directory>>7-movethatfile
+chmod u+x 7-movethatfile
+git add
+echo mv/tmp/betty/tmp/my_first_directory
