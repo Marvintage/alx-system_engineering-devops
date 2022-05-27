@@ -1,7 +1,2 @@
 #!/bin/bash
-/tmp/my_first_directory/betty>>8-firstdelete
-echo /tmp/my_first_directory/betty>>8-firstdelete
-chomd u+x 8-firstdelete
-git add .
-echo /tmp/my_first_directory/betty
-/tmp/my_first_directory/betty
+rm /tmp/my_first_directory/betty
